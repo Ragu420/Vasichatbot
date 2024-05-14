@@ -32,7 +32,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
     akboss.append(
         [
             InlineKeyboardButton(
-                text="ᴀᴅғ ᴍᴇ ᴅᴇᴀʀ",
+                text="ᴀᴅᴅ ᴍᴇ ᴅᴇᴀʀ",
                 url=f"http://t.me/{context.bot.username}?startgroup=true"),
             InlineKeyboardButton(
                 text="𝐃𝐚𝐫𝐥𝐢𝐧𝐠",
