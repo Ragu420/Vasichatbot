@@ -1,6 +1,6 @@
 """
-ɢɪᴛʜᴜʙ -Abishnoi69
-ᴛᴇʟᴇɢʀᴀᴍ @Abishnoi1M / @Abishnoi_bots 
+ɢɪᴛʜᴜʙ -Vasi420
+ᴛᴇʟᴇɢʀᴀᴍ @Anbe_Sivam_Bots
 
 """
 import time
@@ -33,7 +33,7 @@ async def ping(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 [
                     InlineKeyboardButton(
                         text="𝐌𝐲 𝐇𝐮𝐛𝐛𝐲",
-                        url=f"https://t.me/Idhayann",
+                        url=f"https://t.me/Anbesivam_Owner",
                     )
                 ]
             ]
