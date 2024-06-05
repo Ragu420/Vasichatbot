@@ -1,6 +1,6 @@
 """ 
-ɢɪᴛʜᴜʙ -Abishnoi69
-ᴛᴇʟᴇɢʀᴀᴍ @Abishnoi1M / @Abishnoi_bots 
+ɢɪᴛʜᴜʙ - Vasi420
+ᴛᴇʟᴇɢʀᴀᴍ @Anbe_Sivam_Bots
 """
 
 import datetime
